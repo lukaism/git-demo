@@ -1,7 +1,7 @@
 let buttonOne = document.getElementById('welcome');
 
 function hello() {
-    alert('Hola mundo!');
+    alert('Ciao, mondo!');
 }
 
 buttonOne.addEventListener('click', hello);
